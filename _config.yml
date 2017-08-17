@@ -1,0 +1,8 @@
+title: OmniMarkupPreviewer
+description: SublimeText 2&3 plugin to live preview markup files, supported (not limited to) markup formats are markdown, reStructuredText, WikiCreole and textile.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
